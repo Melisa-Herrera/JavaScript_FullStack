@@ -32,6 +32,7 @@ Se usa porque las carpetas son tratadas como archivos y, al usar el comando para
 |          cl = "clear"           | Este comando muestra el espacio libre actual en el disco duro |
 
 4. (Opcional) Clona tu repositorio y ejecuta '@11ty --serve' como en la práctica.
+Extra: Desplegar sitio web usando comandos _site / vercel / (loguearse) / https://(nombre del archivo md).vercel.app/(nombre del archivo md)
 *NOTAS: Instalar en la terminal npm install -g vercel. Loguearse. Uso de comando vercel*
 
 *Semana 1; Clase 2*
