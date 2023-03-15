@@ -1,9 +1,9 @@
 *Semana 1; Clase 1*
-# Melisa Herrera
+# **Melisa Herrera**
 ##### Estudiante y empleada de comercio
-Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript Full-Stack**.
+Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript Full-Stack** de **Undefined-Academy**.
 
-### Clase 1 Markdown & Terminal:
+### **Clase 1 Markdown & Terminal:**
 
 **Preguntas:**
 - Diferencia entre ¨Terminal Application¨ y ¨Terminal Emulator¨?
@@ -31,13 +31,21 @@ Se usa porque las carpetas son tratadas como archivos y, al usar el comando para
 |          rm = "trash"           | Este comando muestra la fecha y hora del sistema actual       |
 |          cl = "clear"           | Este comando muestra el espacio libre actual en el disco duro |
 
-4. (Opcional) Clona tu repositorio y ejecuta '@11ty --serve' como en la práctica.
+4. (Opcional) Clona tu repositorio y ejecuta '@11ty/elventy --serve' como en la práctica.
+
+<!-- http://localhost8080/Semana_1/index.html -->
+
 Extra: Desplegar sitio web usando comandos _site / vercel / (loguearse) / https://(nombre del archivo md).vercel.app/(nombre de la carpeta contenedora)
+
+<!-- https://semana-1-one.vercel.app/Semana_1 -->
+
 *NOTAS: Instalar en la terminal npm install -g vercel. Loguearse. Uso de comando vercel*
+
+RECODAR!!! vercel solo permite caracteres alfanuméricos en minúsculas y guiones
 
 *Semana 1; Clase 2*
 
-### Clase 2 GIT Control de Versiones:
+### **Clase 2 GIT Control de Versiones:**
 
 **Preguntas:**
 - Cuál es la diferencia entre un sistema de control de versiones distribuido y uno centralizado?
