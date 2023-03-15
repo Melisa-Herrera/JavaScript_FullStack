@@ -31,6 +31,6 @@ Se usa porque las carpetas son tratadas como archivos y, al usar el comando para
 | rm = "trash" | Este comando muestra la fecha y hora del sistema actual |
 | cl = "clear" | Este comando muestra el espacio libre actual en el disco duro |
 
-4. (Opcional) Clona tu repositorio y ejecuta '11ty' como en la practica.
+4. (Opcional) Clona tu repositorio y ejecuta '@11ty' como en la práctica.
 
    
