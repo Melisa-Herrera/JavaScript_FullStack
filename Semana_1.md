@@ -1,4 +1,4 @@
-Semana 1; Clase 1
+*Semana 1; Clase 1*
 # Melisa Herrera
 ##### Estudiante y empleada de comercio
 Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript Full-Stack**.
@@ -33,7 +33,7 @@ Se usa porque las carpetas son tratadas como archivos y, al usar el comando para
 
 4. (Opcional) Clona tu repositorio y ejecuta '@11ty' como en la práctica.
 
-Semana 1; Clase 2
+*Semana 1; Clase 2*
 
 ### Clase 2 GIT Control de Versiones:
 
