@@ -1,4 +1,4 @@
-Sesión1
+Semana 1; Clase 1
 # Melisa Herrera
 ##### Estudiante y empleada de comercio
 Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript Full-Stack**.
@@ -33,4 +33,19 @@ Se usa porque las carpetas son tratadas como archivos y, al usar el comando para
 
 4. (Opcional) Clona tu repositorio y ejecuta '@11ty' como en la práctica.
 
-   
+Semana 1; Clase 2
+
+### Clase 2 GIT Control de Versiones:
+
+**Preguntas:**
+- Cuál es la diferencia entre un sistema de control de versiones distribuido y uno centralizado?
+La principal diferencia entre ambos, es la forma en que se manejan las copias locales de los repositorios. En el 1ro cada desarrollador tiene una copia local completa del repositorio, es decir, un acceso completo al historial de cambios del proyecto, lo que facilita el trabajo de equipo y la colaboración. El 2do es el punto central de control para todas las versiones del código fuentey es necesario tenr acceso a él para trabajar en el proyecto.
+
+**Ejercicios:**
+1. Hacer un fork del repositorio https://github.com/undefined-academy/semana-1
+2. Clonar tu repositorio "forked" en tu carpeta de HOME.
+3. Agregar allí un archivo markdown de tu perfil de GitHub, dentro de la carpeta github-profiles y el nombre de archivo debe ser tu usuario de Discord incluyendo el tagnumérico.
+4. Incluye dentro del archivo un link que nos lleve directamente a tu perfil de GitHub.
+5. Haz commit de dicho archivo.
+6. Ve al repositorio del paso 1 y crea tu primer Pull Request.
+7. No dejes la descripción del Pull Request vacia, escribe cómo fue el proceso de resolver este ejercicio, usar Markdown.
