@@ -1,6 +1,9 @@
 *Semana 1; Clase 1*
+
 # **Melisa Herrera**
+
 ##### Estudiante y empleada de comercio
+
 Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript Full-Stack** de **Undefined-Academy**.
 
 ### **Clase 1 Markdown & Terminal:**
@@ -8,8 +11,16 @@ Hola, este es mi espacio de resolución de actividades del bootcamp **JavaScript
 **Preguntas:**
 - Diferencia entre ¨Terminal Application¨ y ¨Terminal Emulator¨?
 La diferencia entre ambos, es que el 1ro se utiliza para acceder a la línea de comandos en sistemas opeativos que no tienen interfaz gráfica. Mientras que el 2do se utiliza para acceder a la línea de comandos en un entorno de sistema operativo con interfaz gráfica, emulando la funcionabilidad de la terminal de texto.
+
 - Por qué mv (mover) se usa para renombrar carpetas?
 Se usa porque las carpetas son tratadas como archivos y, al usar el comando para renombrar, lo que en realidad sucede es que se está moviendo el archivo que representa la carpeta de su nombre anterior al nuevo nombre.
+
+- Diferencia entre los comandos git checkout y git switch?
+Ambos sirven para cambiar entre ramas o versiones de un repositorio. La diferencia principal entre ambos comandos radica en la forma en que se utilizan y en su comportamiento en algunas situaciones específicas, a continuación se enumeran las sig diferencias:
+1. La sintaxis: 'git checkout' / 'git switch'
+2. Comportamiento con archivos modificados: git checkout, si hay archivos modificados en la rama actual que son diferentes a los de la rama a la que se quiere cambiar, Git te obligará a guardar los cambios antes de cambiar / git switch, Git no te permitirá cambiar de rama si hay archivos modificados que puedan entrar en conflicto con la nueva rama.
+3. Comportamiento con ramas nuevas: git checkout, es necesario crear la nueva rama y luego cambiar a ella en (2)dos pasos seprados git branch < > --> git checkout < > / git switch, te permite crear una nueva rama y cambiar a ella en un solo comando, utilizando la git switch -c < >
+4. Compatibilidad: git checkout, siempre será una opción segura y confiable / git switch, relativamente nueva, puede que algunos sistemas antiguos no la admitan.
 
 **Ejercicios:**
 1. Crear un Github Profile. Este debe tener una pequeña descripción tuya tipo CV.
@@ -41,7 +52,7 @@ Extra: Desplegar sitio web usando comandos _site / vercel / (loguearse) / https:
 
 *NOTAS: Instalar en la terminal npm install -g vercel. Loguearse. Uso de comando vercel*
 
-RECODAR!!! vercel solo permite caracteres alfanuméricos en minúsculas y guiones
+RECORDAR!!! vercel solo permite caracteres alfanuméricos en minúsculas y guiones
 
 *Semana 1; Clase 2*
 
@@ -49,7 +60,7 @@ RECODAR!!! vercel solo permite caracteres alfanuméricos en minúsculas y guione
 
 **Preguntas:**
 - Cuál es la diferencia entre un sistema de control de versiones distribuido y uno centralizado?
-La principal diferencia entre ambos, es la forma en que se manejan las copias locales de los repositorios. En el 1ro cada desarrollador tiene una copia local completa del repositorio, es decir, un acceso completo al historial de cambios del proyecto, lo que facilita el trabajo de equipo y la colaboración. El 2do es el punto central de control para todas las versiones del código fuentey es necesario tenr acceso a él para trabajar en el proyecto.
+La principal diferencia entre ambos, es la forma en que se manejan las copias locales de los repositorios. En el 1ro cada desarrollador tiene una copia local completa del repositorio, es decir, un acceso completo al historial de cambios del proyecto, lo que facilita el trabajo de equipo y la colaboración. El 2do es el punto central de control para todas las versiones del código fuente y es necesario tenr acceso a él para trabajar en el proyecto.
 
 **Ejercicios:**
 1. Hacer un fork del repositorio https://github.com/undefined-academy/semana-1
